@@ -1,4 +1,4 @@
 # demo
 This is my first git Repository
 <br>
-Author -Mihr Chaudhary
+Author -Mihr (Loh)
